@@ -1,5 +1,5 @@
 {
-  "name": "@y4hya4/creating-package",
+  "name": "@Y4HYA4/Creating-Package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,8 @@
     "url": "\t"
   },
   "author": "Yahya",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "@Y4HYA4:registry": "https://npm.pkg.github.com"
+  }
 }
